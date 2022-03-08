@@ -1,0 +1,4 @@
+uploaded_files/
+node_modules/
+*.sqlite3/
+*.sql/
